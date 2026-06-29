@@ -1,8 +1,8 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
@@ -18,8 +18,8 @@ Hubski
 LessWrong
 Minecraft
 Odysee
-OurDJTalk
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
