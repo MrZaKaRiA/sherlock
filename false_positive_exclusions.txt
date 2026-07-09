@@ -15,9 +15,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
-LiveJournal
 Minecraft
 Odysee
 PCGamer
