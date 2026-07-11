@@ -2,6 +2,7 @@
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 BreachSta.rs Forum
@@ -18,9 +19,6 @@ LessWrong
 Odysee
 OurDJTalk
 PCGamer
-Patched
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -28,7 +26,6 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
