@@ -14,16 +14,16 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
-Pychess
 Rarible
 Realmeye
 Reddit
@@ -35,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Velomania
@@ -50,4 +49,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
