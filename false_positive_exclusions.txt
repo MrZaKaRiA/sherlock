@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,9 +19,7 @@ Hubski
 Instapaper
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -49,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
