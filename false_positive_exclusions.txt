@@ -12,15 +12,14 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
-Odysee
 PCGamer
 Pornhub
 Rarible
@@ -33,12 +32,12 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -50,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
