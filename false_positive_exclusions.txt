@@ -18,11 +18,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
-Rarible
+Rajce.net
 Realmeye
 Reddit
 ReverbNation
@@ -32,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 Trovo
 TryHackMe
@@ -48,5 +47,6 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
 xHamster
