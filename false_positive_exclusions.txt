@@ -5,6 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carrd
 Championat
 Chatujme.cz
 ChaturBate
@@ -47,4 +48,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
