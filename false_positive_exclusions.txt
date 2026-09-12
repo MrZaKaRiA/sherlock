@@ -8,6 +8,7 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
 ColourLovers
 DeviantArt
@@ -15,19 +16,21 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -50,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
