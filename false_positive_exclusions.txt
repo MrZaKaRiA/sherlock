@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,18 +12,17 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
 Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -51,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
