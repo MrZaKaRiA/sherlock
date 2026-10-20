@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -25,18 +24,19 @@ Instapaper
 Linktree
 Minecraft
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -51,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
