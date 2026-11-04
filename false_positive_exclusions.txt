@@ -1,10 +1,9 @@
 APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-CTAN
 Championat
 Chatujme.cz
 ChaturBate
@@ -15,13 +14,13 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -29,7 +28,6 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
@@ -43,6 +41,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
