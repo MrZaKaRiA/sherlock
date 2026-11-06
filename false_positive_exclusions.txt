@@ -1,13 +1,10 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -24,7 +21,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -35,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
@@ -50,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
