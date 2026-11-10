@@ -2,6 +2,8 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -13,22 +15,20 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LiveJournal
-Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
@@ -40,7 +40,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
