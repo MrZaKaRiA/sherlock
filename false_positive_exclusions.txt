@@ -3,7 +3,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
+Blogger
+CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -15,7 +17,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LiveJournal
+Linktree
 Minecraft
 ObservableHQ
 Odysee
@@ -30,6 +32,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 TryHackMe
 Velomania
@@ -45,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
