@@ -1,11 +1,8 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-CGTrader
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -18,7 +15,6 @@ Hashnode
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -32,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
 Trakt
 TryHackMe
 Velomania
